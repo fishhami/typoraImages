@@ -1,1 +1,1 @@
-# typoraimages
+# typoraImages
